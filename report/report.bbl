@@ -1,0 +1,8 @@
+\begin{thebibliography}{1}
+
+\bibitem{radford2016dcgan}
+Alec Radford, Luke Metz, and Soumith Chintala.
+\newblock Unsupervised representation learning with deep convolutional generative adversarial networks.
+\newblock In {\em International Conference on Learning Representations}, 2016.
+
+\end{thebibliography}
